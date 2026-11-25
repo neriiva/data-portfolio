@@ -11,7 +11,17 @@ Training case project based on a mobile game dataset.
    overall and by device type (iOS / Android).
 
 ## Tools
-SQL (PostgreSQL)
+SQL (PostgreSQL), spreadsheets (Excel / Google Sheets)
+
+## Charts
+DAU, WAU, MAU:
+
+![DAU, WAU, MAU](dau-wau-mau.png)
+
+Sticky factor (weekly and monthly):
+
+![Sticky factor](sticky-factor.png)
 
 ## Files
 - queries.sql: all SQL queries for the tasks above
+- dau-wau-mau-sticky-factor.xlsx: table with metrics and charts
